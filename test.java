@@ -1,4 +1,4 @@
-Ahaha j'aime pas le java!
+//Ahaha j'aime pas le java!
 
 import java.util.*;
 
