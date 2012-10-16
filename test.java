@@ -1,3 +1,5 @@
+Ahaha j'aime pas le java!
+
 import java.util.*;
 
 public class test{
